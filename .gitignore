@@ -1,0 +1,5 @@
+#Ignore dataset and path
+data/smoking_drinking_dataset.csv
+
+#Ignore all datasets
+data/*.csv
