@@ -1,4 +1,5 @@
-# Smoking-Drinking Classification - CS677 Data Science with Python, End of Term Project
+# CS677 Data Science with Python, End of Term Project
+## Smoker-Drinker Classification
 End of Term Project for MET CS 677 - Data Science with Python
 
 ## Dataset
